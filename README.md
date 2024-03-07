@@ -25,4 +25,4 @@ In 2015 PT Lintang Utama Infotek (LUI) focused on product solutions. To ensure t
 
 ## 💳 License
 
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT)
+The Odoo framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT)
